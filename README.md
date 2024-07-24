@@ -6,7 +6,7 @@
 
 
 ***
-- 🔭 I’m currently working on <a href="https://tasq.co.in">tasQ</a>
+- 🔭 I’m currently working as a backend engineer at <a href="https://raft.ai">Raft</a>
 - 🌱 I’m currently learning Experience Design
 - 👯 I’m looking to collaborate on literally anything that pushes my limits.
 - 🤔 I’m looking for help with open source.
